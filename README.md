@@ -1,4 +1,5 @@
 ## 公开分享 Talks
+- 2024 Kotlin中文开发者大会：[直击 KotlinConf’24 现场见闻](https://lp.jetbrains.com/kotlin-online-conference-2024/)
 - 2024 Tech Salon 082-美团业务架构演进与实践：[Kotlin跨平台在餐饮SaaS的实践](https://mp.weixin.qq.com/s/mPFk--ysicFJq6uxt0Wr8Q)
 - 2024 KotlinConf Global · 北京线下分享会：[KotlinConf 2024 Copenhagen现场见闻](https://mp.weixin.qq.com/s/4gl1fg0Gt0HopPPN1PT16w)
 - 2024 KotlinConf on side at Copenhagen：[没想到北欧的 Kotlin 开发者大会这么会玩！-哔哩哔哩](https://b23.tv/qYbeygd)
