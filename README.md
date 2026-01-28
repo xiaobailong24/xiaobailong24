@@ -1,5 +1,5 @@
 ## 公开分享 Talks
-- [2025 Kotlin 中文开发者大会-北京线下分会场](https://mp.weixin.qq.com/s/SLYzQohBhITORUOHAKh_ZA)：场地组织者
+- [2025 Kotlin中文开发者大会-北京线下分会场](https://mp.weixin.qq.com/s/SLYzQohBhITORUOHAKh_ZA)：场地组织者
 - [2025 北京Kotlin Meetup](https://beijing-kug.github.io/events/kotlin-meetup-2025/)：[KotlinConf'25 Keynote 重点精华回顾](https://www.bilibili.com/video/BV1p23BzREK2)
 - [2024 Kotlin中文开发者大会](https://lp.jetbrains.com/kotlin-online-conference-2024)：[直击 KotlinConf’24 现场见闻](https://www.bilibili.com/video/BV1m693YXE3m)、[Kotlin 炉边漫谈播客年终版：聊聊 Kotlin 的大小事](https://www.bilibili.com/video/BV1m693YXEU5)
 - [2024 Tech Salon 082-美团业务架构演进与实践](https://mp.weixin.qq.com/s/mPFk--ysicFJq6uxt0Wr8Q)：[Kotlin跨平台在餐饮SaaS的实践](https://www.bilibili.com/video/BV1es421T71C)
